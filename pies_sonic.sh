@@ -2,8 +2,7 @@
 
 while true; do
 	eject
-	sleep 6
+	sleep 1
 	eject -t
-	sleep 6
 done 
 
